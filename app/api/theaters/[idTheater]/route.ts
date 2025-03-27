@@ -28,7 +28,7 @@ import { Db, MongoClient, ObjectId } from 'mongodb';
  *         description: Theater successfully deleted
  */
 
-export async function GET(request: Request, { params }: { params: { idTheater: string } }): Promise<NextResponse> {
+export async function GET(request: Request, { params }: { params: any }): Promise<NextResponse> {
   try {
     const client: MongoClient = await clientPromise;
     const db: Db = client.db('sample_mflix');
@@ -52,7 +52,7 @@ export async function GET(request: Request, { params }: { params: { idTheater: s
 
 
 
-export async function PUT(request: Request, { params }: { params: { idTheater: string } }): Promise<NextResponse> {
+export async function PUT(request: Request, { params }: { params: any }): Promise<NextResponse> {
 
   try {
     const client: MongoClient = await clientPromise;
@@ -91,7 +91,7 @@ export async function PUT(request: Request, { params }: { params: { idTheater: s
   }
 }
 
-export async function DELETE(request: Request, { params }: { params: { idTheater: string } }): Promise<NextResponse> {
+export async function DELETE(request: Request, { params }: { params: any }): Promise<NextResponse> {
 
   try {
 
