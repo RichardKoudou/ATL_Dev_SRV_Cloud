@@ -28,7 +28,7 @@ import { comment } from 'postcss';
  *       204:
  *         description: Comment successfully deleted
  */
-export async function GET(request: Request, { params }: { params: { idComment: string } }): Promise<NextResponse> {
+export async function GET(request: Request, { params }: { params: { idComment: any } }): Promise<NextResponse> {
     try {
       const client: MongoClient = await clientPromise;
       const db: Db = client.db('sample_mflix');
