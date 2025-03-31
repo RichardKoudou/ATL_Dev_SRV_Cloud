@@ -1,12 +1,12 @@
 {
-  "/_not-found/page": "/_not-found",
   "/api/movies/[idMovie]/comments/[idComment]/route": "/api/movies/[idMovie]/comments/[idComment]",
-  "/api/movies/[idMovie]/comments/route": "/api/movies/[idMovie]/comments",
   "/api/movies/[idMovie]/route": "/api/movies/[idMovie]",
+  "/api/movies/[idMovie]/comments/route": "/api/movies/[idMovie]/comments",
   "/api/movies/route": "/api/movies",
   "/api/theaters/[idTheater]/route": "/api/theaters/[idTheater]",
   "/api/theaters/route": "/api/theaters",
   "/favicon.ico/route": "/favicon.ico",
+  "/_not-found/page": "/_not-found",
   "/api-doc/page": "/api-doc",
   "/app-demo/page": "/app-demo"
 }
