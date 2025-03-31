@@ -1,0 +1,79 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-74077733f585f5e5.js",
+      "static/chunks/4bd1b696-cbc1eb4fc61ea4a8.js",
+      "static/chunks/684-4522d2b8a40cf9ed.js",
+      "static/chunks/main-app-90097dd637e0fbeb.js",
+      "static/chunks/app/_not-found/page-7b7d956233fe0448.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-74077733f585f5e5.js",
+      "static/chunks/4bd1b696-cbc1eb4fc61ea4a8.js",
+      "static/chunks/684-4522d2b8a40cf9ed.js",
+      "static/chunks/main-app-90097dd637e0fbeb.js",
+      "static/css/0f6b2e23d65e7a7c.css",
+      "static/chunks/app/layout-71e2c04836830d1c.js"
+    ],
+    "/api/movies/[idMovie]/comments/[idComment]/route": [
+      "static/chunks/webpack-74077733f585f5e5.js",
+      "static/chunks/4bd1b696-cbc1eb4fc61ea4a8.js",
+      "static/chunks/684-4522d2b8a40cf9ed.js",
+      "static/chunks/main-app-90097dd637e0fbeb.js",
+      "static/chunks/app/api/movies/[idMovie]/comments/[idComment]/route-103d2247f28c83a5.js"
+    ],
+    "/api/movies/[idMovie]/comments/route": [
+      "static/chunks/webpack-74077733f585f5e5.js",
+      "static/chunks/4bd1b696-cbc1eb4fc61ea4a8.js",
+      "static/chunks/684-4522d2b8a40cf9ed.js",
+      "static/chunks/main-app-90097dd637e0fbeb.js",
+      "static/chunks/app/api/movies/[idMovie]/comments/route-042fbdf9cedf08a0.js"
+    ],
+    "/api/movies/[idMovie]/route": [
+      "static/chunks/webpack-74077733f585f5e5.js",
+      "static/chunks/4bd1b696-cbc1eb4fc61ea4a8.js",
+      "static/chunks/684-4522d2b8a40cf9ed.js",
+      "static/chunks/main-app-90097dd637e0fbeb.js",
+      "static/chunks/app/api/movies/[idMovie]/route-d5323cb87c954f9d.js"
+    ],
+    "/api/movies/route": [
+      "static/chunks/webpack-74077733f585f5e5.js",
+      "static/chunks/4bd1b696-cbc1eb4fc61ea4a8.js",
+      "static/chunks/684-4522d2b8a40cf9ed.js",
+      "static/chunks/main-app-90097dd637e0fbeb.js",
+      "static/chunks/app/api/movies/route-b3dd5d672d268d00.js"
+    ],
+    "/api/theaters/route": [
+      "static/chunks/webpack-74077733f585f5e5.js",
+      "static/chunks/4bd1b696-cbc1eb4fc61ea4a8.js",
+      "static/chunks/684-4522d2b8a40cf9ed.js",
+      "static/chunks/main-app-90097dd637e0fbeb.js",
+      "static/chunks/app/api/theaters/route-b33c5297a04b9794.js"
+    ],
+    "/api/theaters/[idTheater]/route": [
+      "static/chunks/webpack-74077733f585f5e5.js",
+      "static/chunks/4bd1b696-cbc1eb4fc61ea4a8.js",
+      "static/chunks/684-4522d2b8a40cf9ed.js",
+      "static/chunks/main-app-90097dd637e0fbeb.js",
+      "static/chunks/app/api/theaters/[idTheater]/route-016330b32340225e.js"
+    ],
+    "/api-doc/page": [
+      "static/chunks/webpack-74077733f585f5e5.js",
+      "static/chunks/4bd1b696-cbc1eb4fc61ea4a8.js",
+      "static/chunks/684-4522d2b8a40cf9ed.js",
+      "static/chunks/main-app-90097dd637e0fbeb.js",
+      "static/css/ab65b8cc3144bfc8.css",
+      "static/chunks/949fd6f9-7e760bd1a21a0510.js",
+      "static/chunks/670-4766fe1e6156d5dd.js",
+      "static/chunks/app/api-doc/page-cad2b59bbd3a70ea.js"
+    ],
+    "/app-demo/page": [
+      "static/chunks/webpack-74077733f585f5e5.js",
+      "static/chunks/4bd1b696-cbc1eb4fc61ea4a8.js",
+      "static/chunks/684-4522d2b8a40cf9ed.js",
+      "static/chunks/main-app-90097dd637e0fbeb.js",
+      "static/chunks/992-fc2fd89134ed1ecf.js",
+      "static/chunks/app/app-demo/page-4986361643e77656.js"
+    ]
+  }
+}

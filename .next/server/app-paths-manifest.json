@@ -1,0 +1,12 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/movies/[idMovie]/comments/[idComment]/route": "app/api/movies/[idMovie]/comments/[idComment]/route.js",
+  "/api/movies/[idMovie]/comments/route": "app/api/movies/[idMovie]/comments/route.js",
+  "/api/movies/[idMovie]/route": "app/api/movies/[idMovie]/route.js",
+  "/api/movies/route": "app/api/movies/route.js",
+  "/api/theaters/route": "app/api/theaters/route.js",
+  "/api/theaters/[idTheater]/route": "app/api/theaters/[idTheater]/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/api-doc/page": "app/api-doc/page.js",
+  "/app-demo/page": "app/app-demo/page.js"
+}
