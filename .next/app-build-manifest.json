@@ -43,19 +43,19 @@
       "static/chunks/main-app-90097dd637e0fbeb.js",
       "static/chunks/app/api/movies/route-b3dd5d672d268d00.js"
     ],
-    "/api/theaters/route": [
-      "static/chunks/webpack-74077733f585f5e5.js",
-      "static/chunks/4bd1b696-cbc1eb4fc61ea4a8.js",
-      "static/chunks/684-4522d2b8a40cf9ed.js",
-      "static/chunks/main-app-90097dd637e0fbeb.js",
-      "static/chunks/app/api/theaters/route-b33c5297a04b9794.js"
-    ],
     "/api/theaters/[idTheater]/route": [
       "static/chunks/webpack-74077733f585f5e5.js",
       "static/chunks/4bd1b696-cbc1eb4fc61ea4a8.js",
       "static/chunks/684-4522d2b8a40cf9ed.js",
       "static/chunks/main-app-90097dd637e0fbeb.js",
       "static/chunks/app/api/theaters/[idTheater]/route-016330b32340225e.js"
+    ],
+    "/api/theaters/route": [
+      "static/chunks/webpack-74077733f585f5e5.js",
+      "static/chunks/4bd1b696-cbc1eb4fc61ea4a8.js",
+      "static/chunks/684-4522d2b8a40cf9ed.js",
+      "static/chunks/main-app-90097dd637e0fbeb.js",
+      "static/chunks/app/api/theaters/route-b33c5297a04b9794.js"
     ],
     "/api-doc/page": [
       "static/chunks/webpack-74077733f585f5e5.js",
