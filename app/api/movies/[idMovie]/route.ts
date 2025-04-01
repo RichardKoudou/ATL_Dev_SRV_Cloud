@@ -1,8 +1,9 @@
-// page/api/movies/[idMovie]/route.ts
 
 import { NextResponse } from 'next/server';
 import clientPromise from '@/lib/mongodb';
 import { Db, MongoClient, ObjectId } from 'mongodb';
+
+// page/api/movies/[idMovie]/route.ts
 
 // app/api/movies/[idMovie]/route.ts
 
