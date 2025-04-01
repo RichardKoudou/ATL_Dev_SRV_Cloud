@@ -105,3 +105,7 @@ GET : http://localhost:3000/api-doc
    ```bash
    vercel --prod
    ```
+
+   ```bash
+   vercel --prod --force
+   ```
