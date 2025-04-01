@@ -7,7 +7,7 @@ import jwt from "jsonwebtoken";
 const SECRET_KEY = process.env.JWT_SECRET || "super-secret-key";
 
 // Liste des routes publiques
-const publicRoutes = ["/login", "/register", "/api-doc", "/api/auth/login"];
+const publicRoutes = ["/login", "/signup", "/api-doc", "/api/auth/login"];
 
 export async function middleware(req: NextRequest) {
   if (publicRoutes.includes(req.nextUrl.pathname)) {
