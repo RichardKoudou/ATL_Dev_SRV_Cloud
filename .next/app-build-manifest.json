@@ -1,31 +1,100 @@
 {
   "pages": {
-    "/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/layout.css",
-      "static/chunks/app/layout.js"
-    ],
-    "/api-doc/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/api-doc/page.css",
-      "static/chunks/app/api-doc/page.js"
-    ],
-    "/api/auth/refresh/route": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/api/auth/refresh/route.js"
-    ],
-    "/api/auth/signup/route": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/api/auth/signup/route.js"
+    "/_not-found/page": [
+      "static/chunks/webpack-74077733f585f5e5.js",
+      "static/chunks/4bd1b696-cbc1eb4fc61ea4a8.js",
+      "static/chunks/684-4522d2b8a40cf9ed.js",
+      "static/chunks/main-app-90097dd637e0fbeb.js",
+      "static/chunks/app/_not-found/page-7b7d956233fe0448.js"
     ],
     "/api/auth/login/route": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/api/auth/login/route.js"
+      "static/chunks/webpack-74077733f585f5e5.js",
+      "static/chunks/4bd1b696-cbc1eb4fc61ea4a8.js",
+      "static/chunks/684-4522d2b8a40cf9ed.js",
+      "static/chunks/main-app-90097dd637e0fbeb.js",
+      "static/chunks/app/api/auth/login/route-f6f6f56e482f9e01.js"
+    ],
+    "/api/auth/refresh/route": [
+      "static/chunks/webpack-74077733f585f5e5.js",
+      "static/chunks/4bd1b696-cbc1eb4fc61ea4a8.js",
+      "static/chunks/684-4522d2b8a40cf9ed.js",
+      "static/chunks/main-app-90097dd637e0fbeb.js",
+      "static/chunks/app/api/auth/refresh/route-2f2c2d4425152287.js"
+    ],
+    "/api/auth/signup/route": [
+      "static/chunks/webpack-74077733f585f5e5.js",
+      "static/chunks/4bd1b696-cbc1eb4fc61ea4a8.js",
+      "static/chunks/684-4522d2b8a40cf9ed.js",
+      "static/chunks/main-app-90097dd637e0fbeb.js",
+      "static/chunks/app/api/auth/signup/route-9519ede8ccd10241.js"
+    ],
+    "/api/movies/[idMovie]/comments/[idComment]/route": [
+      "static/chunks/webpack-74077733f585f5e5.js",
+      "static/chunks/4bd1b696-cbc1eb4fc61ea4a8.js",
+      "static/chunks/684-4522d2b8a40cf9ed.js",
+      "static/chunks/main-app-90097dd637e0fbeb.js",
+      "static/chunks/app/api/movies/[idMovie]/comments/[idComment]/route-0d8558e14eacdf73.js"
+    ],
+    "/api/movies/[idMovie]/route": [
+      "static/chunks/webpack-74077733f585f5e5.js",
+      "static/chunks/4bd1b696-cbc1eb4fc61ea4a8.js",
+      "static/chunks/684-4522d2b8a40cf9ed.js",
+      "static/chunks/main-app-90097dd637e0fbeb.js",
+      "static/chunks/app/api/movies/[idMovie]/route-2e0e4e37b73fd16e.js"
+    ],
+    "/api/movies/[idMovie]/comments/route": [
+      "static/chunks/webpack-74077733f585f5e5.js",
+      "static/chunks/4bd1b696-cbc1eb4fc61ea4a8.js",
+      "static/chunks/684-4522d2b8a40cf9ed.js",
+      "static/chunks/main-app-90097dd637e0fbeb.js",
+      "static/chunks/app/api/movies/[idMovie]/comments/route-c73502a27c15c138.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-74077733f585f5e5.js",
+      "static/chunks/4bd1b696-cbc1eb4fc61ea4a8.js",
+      "static/chunks/684-4522d2b8a40cf9ed.js",
+      "static/chunks/main-app-90097dd637e0fbeb.js",
+      "static/css/0f6b2e23d65e7a7c.css",
+      "static/chunks/app/layout-71e2c04836830d1c.js"
+    ],
+    "/api/movies/route": [
+      "static/chunks/webpack-74077733f585f5e5.js",
+      "static/chunks/4bd1b696-cbc1eb4fc61ea4a8.js",
+      "static/chunks/684-4522d2b8a40cf9ed.js",
+      "static/chunks/main-app-90097dd637e0fbeb.js",
+      "static/chunks/app/api/movies/route-46e1a9c85da19413.js"
+    ],
+    "/api/theaters/[idTheater]/route": [
+      "static/chunks/webpack-74077733f585f5e5.js",
+      "static/chunks/4bd1b696-cbc1eb4fc61ea4a8.js",
+      "static/chunks/684-4522d2b8a40cf9ed.js",
+      "static/chunks/main-app-90097dd637e0fbeb.js",
+      "static/chunks/app/api/theaters/[idTheater]/route-33a47482360f8065.js"
+    ],
+    "/api/theaters/route": [
+      "static/chunks/webpack-74077733f585f5e5.js",
+      "static/chunks/4bd1b696-cbc1eb4fc61ea4a8.js",
+      "static/chunks/684-4522d2b8a40cf9ed.js",
+      "static/chunks/main-app-90097dd637e0fbeb.js",
+      "static/chunks/app/api/theaters/route-60b61d0eb61ff95a.js"
+    ],
+    "/api-doc/page": [
+      "static/chunks/webpack-74077733f585f5e5.js",
+      "static/chunks/4bd1b696-cbc1eb4fc61ea4a8.js",
+      "static/chunks/684-4522d2b8a40cf9ed.js",
+      "static/chunks/main-app-90097dd637e0fbeb.js",
+      "static/css/ab65b8cc3144bfc8.css",
+      "static/chunks/949fd6f9-7e760bd1a21a0510.js",
+      "static/chunks/670-4766fe1e6156d5dd.js",
+      "static/chunks/app/api-doc/page-cad2b59bbd3a70ea.js"
+    ],
+    "/app-demo/page": [
+      "static/chunks/webpack-74077733f585f5e5.js",
+      "static/chunks/4bd1b696-cbc1eb4fc61ea4a8.js",
+      "static/chunks/684-4522d2b8a40cf9ed.js",
+      "static/chunks/main-app-90097dd637e0fbeb.js",
+      "static/chunks/992-fc2fd89134ed1ecf.js",
+      "static/chunks/app/app-demo/page-4986361643e77656.js"
     ]
   }
 }
